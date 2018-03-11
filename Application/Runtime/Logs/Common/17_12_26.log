@@ -1,0 +1,618 @@
+[ 2017-12-26T13:15:34+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-12-26T13:36:50+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:44:15+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001026s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:44:16+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000885s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:46:15+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001062s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:46:15+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000650s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:49:41+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:49:41+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000587s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:52:18+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001320s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:52:18+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000648s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:54:06+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000956s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:54:07+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000580s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:54:15+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001192s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:54:15+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000702s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:54:16+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000668s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:54:41+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001053s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:54:49+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001201s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:55:00+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001483s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:55:10+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001271s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:56:29+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002173s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:56:54+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000061s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004506s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T13:58:53+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:02:01+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001287s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:02:51+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001060s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:03:41+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002281s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:03:48+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000071s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001598s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:03:50+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000909s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:03:51+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002237s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:03:52+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001462s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:05:17+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001109s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:06:03+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001084s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:06:11+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001116s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:07:07+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001021s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:09:07+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000175s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001857s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:09:36+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002178s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:11:15+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:11:46+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001340s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:12:21+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001029s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:12:21+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000724s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:13:51+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001423s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:13:51+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:25:27+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000767s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-12-26T14:25:43+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001234s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:25:43+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:25:44+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001924s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-12-26T14:26:25+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000915s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:26:25+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:26:26+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000878s ]
+ERR: 无法加载模块:Favicon
+
+[ 2017-12-26T14:27:42+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000718s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:13+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001934s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:18+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001343s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:19+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:19+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000627s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:20+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000818s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:20+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002095s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:21+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000817s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:21+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:21+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000244s ]
+INFO: [ app_init ] --END-- [ RunTime:0.003345s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:22+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:22+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000913s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:23+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:23+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001656s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:24+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:24+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001306s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:25+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000882s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:25+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002632s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:25+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001653s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:26+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000092s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001550s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:26+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000989s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:29:37+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000073s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001428s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:30:27+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001267s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T14:35:29+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001209s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T18:55:08+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001140s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T18:55:08+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001166s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:01:53+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001139s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:01:53+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000745s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:02:51+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000929s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:03:24+08:00 ] 127.0.0.1 /Public/Home/center.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001182s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:03:29+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001059s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:03:52+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:03:52+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000628s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:04:20+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001076s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:04:39+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000054s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001129s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:04:52+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001958s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:13:54+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001207s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:13:54+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000700s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:14:02+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000990s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:14:03+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:16:08+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:16:08+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000691s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:16:43+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001255s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:16:43+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000626s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:19:50+08:00 ] 127.0.0.1 /Public/Home/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000877s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:19:53+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001113s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:20:02+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001785s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:51:24+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001223s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T19:53:17+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001427s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T20:03:50+08:00 ] 127.0.0.1 /Public/Home/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T20:06:24+08:00 ] 127.0.0.1 /Public/Home/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000812s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T20:07:39+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001681s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T20:53:23+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000815s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T20:53:24+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001081s ]
+ERR: 无法加载模块:Public
+
+[ 2017-12-26T23:06:53+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+ERR: 无法加载模块:Favicon
+

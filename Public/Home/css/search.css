@@ -1,0 +1,97 @@
+body,html{
+	background-color:#f5f5f5;
+}
+header{
+	width:100%;
+	position: relative;
+	background-color: #fff;
+	line-height: .66rem;
+	padding:.21rem 1.76rem .21rem .33rem;
+	border-bottom:1px solid #dbdada;
+}
+.left{
+	position: relative;
+    border-radius: .09rem;
+    background: #f5f5f5;
+    height:.66rem;
+    padding:0 .84rem 0 2.03rem;
+}
+.ser-pic{
+	position: absolute;
+	left:.33rem;
+	top:.16rem;
+	display:block;
+	width:.32rem;
+	height:.32rem;
+	background:url(../image/home-sug_9b6b8da.png) no-repeat;
+	background-size:100%;
+}
+.cars{
+	position: absolute;
+	left:.84rem;
+	display: inline-block;
+	font-size: .28rem;
+    color: #585858;
+    line-height: .7rem;
+}
+.cars::after{
+	content: "";
+    width: 0;
+    height: 0;
+    display: inline-block;
+    border: .09rem solid;
+    border-color: #585858 transparent transparent;
+    vertical-align: -.05rem;
+    margin: 0 .33rem 0 .12rem;
+}
+.form{
+	position: absolute;
+	left:2.03rem;
+	top:-0.25rem;
+	line-height: .66rem;
+}
+.form input{
+	outline:0;
+	border:0;
+	background-color: #f5f5f5;
+	display: inline-block;
+}
+.right{
+	position: absolute;
+	right:0;
+	top:.31rem;
+	width: 1.76rem;
+    font-size: .28rem;
+    text-align: center;
+}
+.right a{
+	color: #ff5a37;
+}
+.suggest{
+	padding: 0 .23rem;
+}
+.suggest-title{
+    height: 1.1rem;
+    width: 100%;
+    color: #3a3836;
+    font-size: .25rem;
+    line-height: 1.1rem;
+}
+.sgt-list a:nth-child(5n){
+	margin-right: 0;
+}
+.sgt-list a{
+	color:#3c3c3c;
+	display: block;
+	float: left;
+	width:1.23rem;
+	height:.67rem;
+	text-align: center;
+	font-size: .28rem;
+	line-height: .67rem;
+	border:1px solid #ebe9e9;
+	background-color: #fff;
+	margin-right: .14rem;
+	border-radius: .09rem;
+	margin-bottom: .23rem;
+}

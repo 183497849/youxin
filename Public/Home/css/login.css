@@ -1,0 +1,174 @@
+body,html{
+	background: #fff;
+}
+.nav{
+	position: relative;
+	color:#1b1b1b;
+	font-size: .3rem;
+	text-align: center;
+	line-height: .9rem;
+	background-color: #fff;
+	border-bottom: 1px solid #ebe9e9;
+}
+.prev{
+	position: absolute;
+	top:.35rem;
+	left:.35rem;
+	display: block;
+    width:.24rem;
+    height:.24rem;
+    border:solid #ff5a37;
+    border-width: 0 0 1.5px 1.5px;
+    transform: rotate(45deg);
+}
+.tab-title{
+	border-bottom: 1px solid #e5e5e5;
+	padding:.4rem 0;
+	overflow: hidden;
+}
+.tab-title a{
+	position: relative;
+	display: block;
+	float: left;
+	width:50%;
+	font-size: .3rem;
+	color: #aaa;
+	text-align: center;
+}
+.web::after{
+	position: absolute;
+	top:-.09rem;
+	right:0;
+	content: "";
+	width:1px;
+	height:.5rem;
+	background-color: #c5c5c5;
+}
+.tab-title .active-bt::before{
+	position: absolute;
+	bottom:-.4rem;
+	left:0;
+	content: "";
+	width:100%;
+	height:2px;
+	background-color: #ff5a37;
+}
+.tab-title .active-bt{
+   color: #ff5a37;
+}
+.tab-item{
+	padding:.3rem .3rem 0;
+}
+.mes{
+	display: none;
+}
+.tab-item .ipt{
+	position: relative;
+	font-size: .3rem;
+	color: #666;
+	border:1px solid #c5c5c5;
+	border-radius: .12rem;
+	padding:.31rem 0 .31rem .9rem;
+	margin-bottom: .3rem;
+}
+.tab-item .ipt::before{
+	position: absolute;
+    top: .24rem;
+    left: .2rem;
+	content: "";
+	width: .5rem;
+	height: .5rem;
+}
+.tab-item .phone::before{
+	background: url(../image/d-pnumber.png) no-repeat;
+    background-size: 100%;
+}
+.tab-item .paw::before{
+	background: url(../image/d-paws.png) no-repeat;
+    background-size: 100%;
+}
+.tab-item .code::before,.tab-item .random::before{
+	background: url(../image/d-lmasg.png) no-repeat;
+    background-size: 100%;
+}
+.ipt input{
+	border:none;
+	outline: none;
+	font-size: .3rem;
+	width: 100%;
+}
+.code,.random{
+	float:left;
+	width:60%;
+}
+.vcode-pic{
+	float:right;
+	display: block;
+	width:36%;
+	height:.96rem;
+	border:1px solid #c5c5c5;
+	margin-bottom: .3rem;
+	overflow: hidden;
+}
+.vcode-pic img{
+	width: 100%;
+	height:100%;
+}
+.send{
+	float: right;
+	display: block;
+    width: 36%;
+    font-size: .3rem;
+    color: #fff;
+    text-align: center;
+    line-height: .96rem;
+    background-color: #ff5a37;
+    border-radius: .12rem;
+}
+.login-bt,.sign-bt{
+	display: block;
+    font-size: .3rem;
+    color: #fff;
+    text-align: center;
+    line-height: .96rem;
+    border-radius: .12rem;
+    background-color: #ff5a37;
+    margin-bottom: .3rem;
+	border:none;
+	outline: none;
+	width: 100%;
+}
+.tip a{
+    font-size: .3rem;
+}
+.register{
+    float: left;
+    color: #ff5a37;
+}
+.forget{
+    float: right;
+    color: #aaa;
+}
+.error{
+	position: relative;
+	font-size: .3rem;
+    color: #ee394b;
+    text-align: center;
+	line-height: .96rem;
+    background: #ffe8ef;
+    border: 1px solid #f29897;
+    margin-bottom: .3rem;
+    display: none;
+}
+.error::before{
+	position: absolute;
+    top: .32rem;
+    left: .3rem;
+    content: "";
+    width: .35rem;
+    height: .35rem;
+    background: url(../image/d-error.png) no-repeat;
+    background-size: 100%;
+   
+
+}

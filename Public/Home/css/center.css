@@ -1,0 +1,90 @@
+body,html{
+	background: #f1f1f1;
+}
+.head{
+	width:100%;
+	height:3.9rem;
+	background:url(../image/login-head.jpg) no-repeat;
+	background-size: 100%;
+	margin-bottom: .2rem;
+	padding:.29rem .27rem 0;
+	overflow: hidden;
+}
+.uxin{
+	display: block;
+	width:.68rem;
+	height:.3rem;
+	background:url(../image/new-per-uxin.png) no-repeat;
+	background-size: 100%;
+	float: left;
+}
+.app{
+	display: block;
+	float: right;
+    font-size: .3rem;
+    color: #fff;
+}
+.app::before{
+	display: inline-block;
+	content: "";
+	width:.3rem;
+	height:.3rem;
+	background:url(../image/new-per-up.png) no-repeat;
+	background-size: 100%;
+	margin-bottom: -.024rem;
+	margin-right: .08rem
+}
+.login-bt{
+	display: block;
+	width:1.28rem;
+	height:1.28rem;
+	background-color: #d9d9d9;
+	border-radius: 100%;
+	border:.04rem solid #fff;
+	margin:.6rem auto .18rem;
+	overflow: hidden;
+}
+.login-bt img{
+	width:100%;
+	height:100%;
+	border-radius: 100%;
+}
+.text{
+	font-size: .25rem;
+	color: #fff;
+	margin:0 auto;
+    text-align: center;
+}
+.wrap{
+    padding-left: 1.16rem;
+    background: #fff;
+    margin-bottom: .2rem;
+}
+.wrap a{
+	position: relative;
+	display: block;
+	line-height: .92rem;
+	font-size: .26rem;
+	color: #1b1b1b;
+	border-bottom: 1px solid #e5e5e5;
+}
+.wrap a:last-child{
+	border-bottom:none;
+}
+.wrap a::before{
+	position: absolute;
+	top:.24rem;
+	left:-.8rem;
+	display: inline-block;
+	content:"";
+	width:.44rem;
+	height:.44rem;
+}
+.save::before{
+	background:url(../image/new-per-icon1.png) no-repeat;
+	background-size: 100%;
+}
+.read::before{
+	background:url(../image/new-per-icon2.png) no-repeat;
+	background-size: 100%;
+}

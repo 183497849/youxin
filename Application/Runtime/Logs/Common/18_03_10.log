@@ -1,0 +1,96 @@
+[ 2018-03-10T09:50:24+08:00 ] 127.0.0.1 /favicon.ico
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001508s ]
+ERR: 无法加载模块:Favicon
+
+[ 2018-03-10T11:09:52+08:00 ] 127.0.0.1 /UserCenter.php
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000780s ]
+ERR: 无法加载模块:UserCenter
+
+[ 2018-03-10T11:20:53+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001107s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:21:06+08:00 ] 127.0.0.1 /Public/Home/js/login.js
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001112s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:21:17+08:00 ] 127.0.0.1 /Public/Home/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001101s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:21:40+08:00 ] 127.0.0.1 /Public/Home/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000998s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:21:40+08:00 ] 127.0.0.1 /Public/Home/js/maps/swiper.jquery.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:21:42+08:00 ] 127.0.0.1 /Public/Home/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001158s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:21:43+08:00 ] 127.0.0.1 /Public/Home/js/maps/swiper.jquery.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:21:46+08:00 ] 127.0.0.1 /Public/Home/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000803s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:21:46+08:00 ] 127.0.0.1 /Public/Home/js/maps/swiper.jquery.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001070s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:22:21+08:00 ] 127.0.0.1 /Public/Home/css/index.css
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000962s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:22:21+08:00 ] 127.0.0.1 /Public/Home/js/maps/swiper.jquery.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001400s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:36:42+08:00 ] 127.0.0.1 /Public/Home/js/maps/swiper.jquery.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001106s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T11:37:14+08:00 ] 127.0.0.1 /Public/Home/js/maps/swiper.jquery.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001365s ]
+ERR: 无法加载模块:Public
+
+[ 2018-03-10T13:58:29+08:00 ] 127.0.0.1 /Public/Home/js/maps/swiper.jquery.min.js.map
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001366s ]
+ERR: 无法加载模块:Public
+

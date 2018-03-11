@@ -1,0 +1,109 @@
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device,user-scalable=no,initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0">
+	<title>账号登录</title>
+	<link rel="stylesheet" href="/Public/Home/css/public.css">
+	<link rel="stylesheet" href="/Public/Home/css/login.css">
+	<script src="/Public/Home/js/jquery-3.2.0.min.js"></script>
+	<script src="/Public/Home/js/login.js"></script>
+</head>
+<body>
+	<nav class="nav">
+		<a href="/Public/Home/center.html" class="prev"></a>
+		<span class="login-text">登陆</span>
+	</nav>
+	<div class="tab-title">
+		<a href="javascript:void(0)" class="web active-bt">网站密码登录</a>
+		<a href="javascript:void(0)" class="mes">短信随机码登录</a>
+	</div>
+	<div class="tab-list">
+		<div class="tab-item web">
+		    <form action="http://youxin.com/Home/UserCenter/doLogin" method="post">
+		        <div class="phone ipt">
+				    <input type="text" name="number" placeholder="请输入手机号" class="vphone" onfocus="this.placeholder=''" onblur="this.placeholder='请输入手机号'">
+				</div>
+				<div class="paw ipt">
+				    <input type="password" name="password" placeholder="请输入密码" class="vpaw" onfocus="this.placeholder=''" onblur="this.placeholder='请输入密码'">
+				</div>
+				<div class="clearfix">
+					<div class="code ipt">
+					    <input type="text" name="verify" placeholder="请输入图片码" class="vcode" onfocus="this.placeholder=''" onblur="this.placeholder='请输入图片码'">
+					</div>
+					<a href="#" class="vcode-pic"> <img src="<?php echo U('Home/UserCenter/verify');?>" class="verify"></a>
+					<a href="javascript:;" class="alterVerify"></a><br>
+				</div>
+				<div class="error">
+					<span class="t-error">手机号错误</span>
+				</div>
+				<input class="login-bt" type="button" value="登录"></input>
+			</form>
+			<div class="tip clearfix">
+				<a href="http://youxin.com/Home/UserCenter/reg" class="register">还没注册？</a>
+				<a href="#" class="forget">忘记密码</a>
+			</div>
+		</div>
+		<div class="tab-item mes">
+		<form>
+			<div class="phone ipt">
+			    <input type="text" placeholder="请输入手机号" class="vphone" onfocus="this.placeholder=''" onblur="this.placeholder='请输入手机号'">
+			</div>
+			<div class="clearfix">
+				<div class="code ipt">
+				    <input type="text" placeholder="请输入图片码" class="vcode" onfocus="this.placeholder=''" onblur="this.placeholder='请输入图片码'">
+				</div>
+				<a href="#" class="vcode-pic"></a>
+			</div>
+			<div class="clearfix">
+				<div class="random ipt">
+				    <input type="text" placeholder="请输入随机码" class="vrandom" onfocus="this.placeholder=''" onblur="this.placeholder='请输入随机码'">
+				</div>
+				<a href="#" class="send">发送随机码</a>
+			</div>
+			<div class="error">
+				<span class="t-error"></span>
+			</div>
+			<a href="javascript:void(0)" class="login-bt" type="submit" >登录</a>
+			</form>
+		</div>
+	</div>
+	<script 
+			src="http://code.jquery.com/jquery-3.2.1.js"></script>
+		<script type="text/javascript">
+			$(function(){
+				$('.vcode-pic').click(function(){
+					newsrc = "http://youxin.com/home/UserCenter/verify/v/"+Math.random();
+					$('.verify').attr('src',newsrc);
+				});
+			})
+		</script>
+	<script>
+	    $(function(){
+	    	$(".tab-title a").click(function(){
+	    		$(this).addClass("active-bt").siblings().removeClass("active-bt");
+	    		var index = $(this).index();
+	    		$(".tab-item").eq(index).show().siblings().hide();
+	    	});
+	    	/*web登陆验证*/
+	    	$(".login-bt").click(function(){
+	    		var vphone = $(".vphone").val();
+	        	var vpaw = $(".vpaw").val();
+	        	var vcode = $(".vcode").val();
+	        	if( vphone == ""){
+                   $(".error").show();
+                   $(".t-error").text("手机号错误");
+	        	}else if( vpaw == ""){
+	        	   $(".error").show();
+                   $(".t-error").text("请输入6-12位数字、字母、_组合");
+	        	}else if( vcode == ""){
+	        	   $(".error").show();
+                   $(".t-error").text("图片码不能为空");
+	        	}else{
+                	$(this).prop("type","submit");
+                }
+            })
+	    })
+	</script>
+</body>
+</html>

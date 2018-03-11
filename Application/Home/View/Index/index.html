@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device,user-scalable=no,initial-scale=1.0,maximum-scale=1.0, minimum-scale=1.0">
+	<title>二手车</title>
+	<link rel="stylesheet" href="__PUBLIC__/Home/css/public.css">
+	<link rel="stylesheet" href="__PUBLIC__/Home/css/index.css">
+	<link rel="stylesheet" href="__PUBLIC__/Home/css/swiper-3.4.2.min.css">
+	<script src="__PUBLIC__/Home/js/jquery-3.2.0.min.js"></script>
+	<script src="__PUBLIC__/Home/js/swiper-3.4.2.jquery.min.js"></script>
+</head>
+<body>
+	<header>
+		<div class="home-header clearfix">
+			<a href="#" class="uxin"></a>
+			<a href="#" class="spot">吉林</a>
+			<a href="http://youxin.com/Home/Index/search" class="search"> <i></i><input type="text" class="search-text" placeholder="搜索:品牌/"></a>
+			<a href="#" class="fold"></a>
+		</div>
+		<div class="banner swiper-container">
+			<div class="swiper-wrapper">
+				<div class="swiper-slide"><a href="http://m.xin.com/halfprice/?channel=a49b117c44837d110753e751863f53"><img src="__PUBLIC__/Home/image/5a3881ade9c44706529.jpg" alt=""></a></div>
+				<div class="swiper-slide"><a href="http://m.xin.com/service/?channel=a49b117c44837d110753e751863f53"><img src="__PUBLIC__/Home/image/5a2e64026e287345958.jpg" alt=""></a></div>
+			</div>
+			<div class="swiper-pagination"></div>
+		</div>
+        <div class="deal clearfix">
+        	<a href="" class="buy">我要买车</a>
+        	<a href="" class="sale">我要卖车</a>
+        </div>
+        <div class="wrap">
+        	<div class="title clearfix">
+        		<h2>低首付 · 零月供</h2>
+        		<a href="#" class="more">更多</a>
+        	</div>
+        	<dl class="price-class clearfix">
+        		<dt class="half-car">
+	        		<a href="#">
+	        			<h3>A6L</h3>
+	        			<div class="price"><strong>4.47</strong>万起</div>
+	        			<img src="__PUBLIC__/Home/image/584a523978203960307.jpg" alt="">
+	        		</a>
+        		</dt>
+        		<dt class="half-car">
+        		    <a href="#">
+	        			<h3>A6L</h3>
+	        			<div class="price"><strong>4.47</strong>万起</div>
+	        			<img src="__PUBLIC__/Home/image/584a523978203960307.jpg" alt="">
+	        		</a>
+        		</dt>
+        		<dt class="half-car">
+        		    <a href="#">
+	        			<h3>A6L</h3>
+	        			<div class="price"><strong>4.47</strong>万起</div>
+	        			<img src="__PUBLIC__/Home/image/584a523978203960307.jpg" alt="">
+	        		</a>
+        		</dt>
+        	</dl>
+        	<div class="service">
+        		<a href="#">
+        			<span  class="jc"><i></i>158项检测</span>
+        			<span  class="bt"><i></i>30天包退</span>
+        			<span  class="bx"><i></i>一年保修</span>
+        		</a>
+        	</div>
+        </div>
+        <div class="wrap">
+        	<div class="title">
+        		<h2><i></i>快速选车</h2>
+        		<a href="#" class="more">更多</a>
+        	</div>
+        	<div class="brand clearfix">
+                <?php foreach($classify_data as $key=>$value) { ?>
+        		<a href="#"><img img src="<?php echo '/Uploads/'.$value['image']; ?>" alt=""><?php echo $value['name']; ?></a>
+                <?php } ?>
+        	</div>
+        	<div class="quick-price clearfix">
+        		<a href="#" class="red">低首付</a>
+        		<a href="#" class="red">无月供</a>
+        		<a href="#">5万以内</a>
+        		<a href="#">5-10万</a>
+        		<a href="#">10-20万</a>
+        	</div>
+        	<div class="quick-models clearfix">
+                <?php foreach($car_type_data as $key=>$value) { ?>
+                        <a href="#"><?php echo $value['car_type']; ?></a>
+                <?php } ?>
+        	</div>
+        </div>
+        <div class="wrap">
+                <div class="title">
+                        <h2><i></i>全国直购</h2>
+                        <a href="#" class="more">什么是全国直购</a>
+                </div>
+                <ul class="car-list clearfix">
+                        <?php foreach($car_type_data as $key=>$value) { ?>
+                        <li class="car-item">
+                            <a href="#" class="clearfix">
+                                        <img src="__PUBLIC__/Home/image/5a4317cdce73d467717_18.jpg" alt="">
+                                        <div class="item-text">
+                                                <h4>[12天提车] 奥迪 A4L 2012款 2.0T 自动 TFSI标准型</h4>
+                                                <span class="car-data">2012年 / 10.3万公里</span>
+                                                <div class="price-wrap"><span class="list-price">17.13</span>万<span class="list-half">首付4.80</span>万</div>
+                                        </div>
+                                </a>
+                        </li>
+                        <?php } ?>
+                </ul>
+        </div>
+
+	</header>
+	<script>
+	    var mySwiper = new Swiper ('.swiper-container',{
+	    	direction:"horizontal",
+	    	loop:true,
+	    	pagination:'.swiper-pagination',
+	    	autoplay:2000,
+	    })
+	</script>
+</body>
+</html>

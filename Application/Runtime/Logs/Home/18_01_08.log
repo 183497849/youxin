@@ -1,0 +1,555 @@
+[ 2018-01-08T18:31:20+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.023149s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.015751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.015827s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0693s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0330s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.022192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.022295s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.057754s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.057868s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.010405s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010500s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002324s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002458s ]
+
+[ 2018-01-08T18:31:34+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001247s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001325s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0107s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0052s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000153s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010123s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010208s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000750s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000800s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001261s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001354s ]
+
+[ 2018-01-08T18:32:53+08:00 ] 127.0.0.1 /Home/Index/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000954s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001338s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0055s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.100966s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.101060s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.134407s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.134508s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001004s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001057s ]
+
+[ 2018-01-08T18:43:27+08:00 ] 127.0.0.1 /home/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001351s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002093s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Info
+
+[ 2018-01-08T18:44:28+08:00 ] 127.0.0.1 /home/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001023s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001091s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Info
+
+[ 2018-01-08T18:44:30+08:00 ] 127.0.0.1 /home/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000798s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000856s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Info
+
+[ 2018-01-08T18:49:10+08:00 ] 127.0.0.1 /home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001013s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001059s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001131s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0067s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000137s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000276s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013176s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000819s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000867s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001148s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001240s ]
+
+[ 2018-01-08T18:52:16+08:00 ] 127.0.0.1 /home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001088s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001863s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0084s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000095s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000176s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011739s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011823s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000641s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000685s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001440s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001569s ]
+
+[ 2018-01-08T18:52:20+08:00 ] 127.0.0.1 /home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001011s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001061s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001163s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0065s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000088s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000173s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013136s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013219s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000661s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001294s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001397s ]
+
+[ 2018-01-08T21:00:34+08:00 ] 127.0.0.1 /home/INFO
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001053s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001316s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001420s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:INFO
+
+[ 2018-01-08T21:00:46+08:00 ] 127.0.0.1 /home/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001148s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001146s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T21:00:53+08:00 ] 127.0.0.1 /home/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000926s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001475s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001613s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T21:00:59+08:00 ] 127.0.0.1 /Home/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001265s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001374s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T21:01:07+08:00 ] 127.0.0.1 /Home/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001264s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001555s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001679s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T21:35:46+08:00 ] 127.0.0.1 /Home/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001151s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001242s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T21:35:47+08:00 ] 127.0.0.1 /Home/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T21:35:53+08:00 ] 127.0.0.1 /Home/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001388s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T22:16:24+08:00 ] 127.0.0.1 /Home/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000884s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001039s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001100s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T22:16:59+08:00 ] 127.0.0.1 /Home/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000740s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000893s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T22:17:00+08:00 ] 127.0.0.1 /Home/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000756s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000852s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000910s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T22:17:00+08:00 ] 127.0.0.1 /Home/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000726s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000905s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T22:18:36+08:00 ] 127.0.0.1 /home/info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000693s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001349s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T22:18:42+08:00 ] 127.0.0.1 /home/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000766s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001016s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001077s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T22:18:50+08:00 ] 127.0.0.1 /Home/Info
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000985s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000807s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000877s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 非法操作:index
+
+[ 2018-01-08T22:19:06+08:00 ] 127.0.0.1 /home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000950s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000822s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000886s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.1737s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0017s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0349s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000195s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000439s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016159s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001178s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001745s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001837s ]
+
+[ 2018-01-08T22:19:17+08:00 ] 127.0.0.1 /Home/Index/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001031s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0080s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0079s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000133s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018175s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018281s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000507s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000568s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000940s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001018s ]
+
+[ 2018-01-08T22:19:23+08:00 ] 127.0.0.1 /Home/Index/search
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000991s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001082s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0110s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0007s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011479s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011607s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000772s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000851s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001050s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001148s ]
+
+[ 2018-01-08T22:21:06+08:00 ] 127.0.0.1 /home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000917s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001102s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001177s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.1040s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000098s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000183s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010169s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010287s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000802s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000902s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001208s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001314s ]
+
+[ 2018-01-08T22:21:07+08:00 ] 127.0.0.1 /home
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000896s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001516s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001655s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0051s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0053s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000086s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010452s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010525s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000649s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000695s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001074s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001146s ]
+
+[ 2018-01-08T22:21:52+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000843s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000919s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0064s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0008s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0059s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000092s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000164s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009455s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009530s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000595s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001155s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001254s ]
+
+[ 2018-01-08T22:22:08+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001227s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003190s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003342s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0085s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000151s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000299s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015403s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015538s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000947s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001025s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003017s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003355s ]
+
+[ 2018-01-08T22:22:48+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000865s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001236s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0060s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0006s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0058s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000144s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000257s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012551s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012662s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000681s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000752s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001150s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001275s ]
+
+[ 2018-01-08T22:22:49+08:00 ] 127.0.0.1 /
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000722s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001437s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001521s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0068s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0005s ]
+SQL: SHOW COLUMNS FROM `car_type` [ RunTime:0.0063s ]
+SQL: SELECT * FROM `car_type`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000138s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000235s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012382s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012524s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000562s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000613s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001076s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001164s ]
+
