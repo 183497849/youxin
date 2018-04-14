@@ -2,10 +2,6 @@
 namespace Home\Controller;
 use Think\Controller;
 class UserCenterController extends Controller {
-    public function index(){
-        echo "asd";
-     }
-
     public function reg(){
        $this->display();
     }
@@ -61,7 +57,7 @@ class UserCenterController extends Controller {
         if($userInfo['password'] == $password){
             unset($userInfo['password']);
             $_SESSION['me'] = $userInfo;
-            $this->success('密码正确，登录成功',U('Home/UserCenter/reg'));
+            $this->success('密码正确，登录成功',U('Home/Index/index'));
         }else{
              $this->error('密码错误，登录失败',U('Home/UserCenter/login'));
         }

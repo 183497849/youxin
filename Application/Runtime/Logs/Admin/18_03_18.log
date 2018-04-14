@@ -1,0 +1,876 @@
+[ 2018-03-18T09:36:49+08:00 ] 127.0.0.1 /Admin/Classify/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0072s ]
+SQL: SELECT * FROM `classify` WHERE `parent_id` = 0  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000110s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010059s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010150s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000780s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000842s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001054s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001105s ]
+
+[ 2018-03-18T09:40:30+08:00 ] 127.0.0.1 /Admin/Classify/lists
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000744s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001092s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001153s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0322s ]
+SQL: SELECT * FROM `classify`  [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+NOTIC: [8] Undefined index: parent_name E:\xampp\htdocs\youxin\Application\Runtime\Cache\Admin\b3bfa66bfa7364f8187479d5ecca481f.php 第 27 行.
+NOTIC: [8] Undefined index: parent_name E:\xampp\htdocs\youxin\Application\Runtime\Cache\Admin\b3bfa66bfa7364f8187479d5ecca481f.php 第 27 行.
+NOTIC: [8] Undefined index: parent_name E:\xampp\htdocs\youxin\Application\Runtime\Cache\Admin\b3bfa66bfa7364f8187479d5ecca481f.php 第 27 行.
+NOTIC: [8] Undefined index: parent_name E:\xampp\htdocs\youxin\Application\Runtime\Cache\Admin\b3bfa66bfa7364f8187479d5ecca481f.php 第 27 行.
+NOTIC: [8] Undefined index: parent_name E:\xampp\htdocs\youxin\Application\Runtime\Cache\Admin\b3bfa66bfa7364f8187479d5ecca481f.php 第 27 行.
+NOTIC: [8] Undefined index: parent_name E:\xampp\htdocs\youxin\Application\Runtime\Cache\Admin\b3bfa66bfa7364f8187479d5ecca481f.php 第 27 行.
+NOTIC: [8] Undefined index: parent_name E:\xampp\htdocs\youxin\Application\Runtime\Cache\Admin\b3bfa66bfa7364f8187479d5ecca481f.php 第 27 行.
+NOTIC: [8] Undefined index: parent_name E:\xampp\htdocs\youxin\Application\Runtime\Cache\Admin\b3bfa66bfa7364f8187479d5ecca481f.php 第 27 行.
+NOTIC: [8] Undefined index: parent_name E:\xampp\htdocs\youxin\Application\Runtime\Cache\Admin\b3bfa66bfa7364f8187479d5ecca481f.php 第 27 行.
+NOTIC: [8] Undefined index: parent_name E:\xampp\htdocs\youxin\Application\Runtime\Cache\Admin\b3bfa66bfa7364f8187479d5ecca481f.php 第 27 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008963s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000870s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000921s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001098s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001150s ]
+
+[ 2018-03-18T14:05:51+08:00 ] 127.0.0.1 /Admin/Classify/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003325s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003523s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+SQL: SHOW COLUMNS FROM `classify` [ RunTime:0.0265s ]
+SQL: SELECT * FROM `classify` WHERE `parent_id` = 0  [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009072s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009178s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000858s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001244s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001294s ]
+
+[ 2018-03-18T14:09:14+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001550s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:CarImage
+
+[ 2018-03-18T14:10:09+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000733s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001173s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009498s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009588s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000909s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001105s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001155s ]
+
+[ 2018-03-18T14:13:06+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000795s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001279s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000114s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008279s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001048s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001118s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001092s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001142s ]
+
+[ 2018-03-18T14:18:23+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000741s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001380s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000111s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008823s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008897s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000781s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000829s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001026s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001074s ]
+
+[ 2018-03-18T14:18:40+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000694s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000878s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000947s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000046s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000100s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007320s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007433s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000793s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000864s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001266s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001358s ]
+
+[ 2018-03-18T14:18:48+08:00 ] 127.0.0.1 /Admin/CarImage/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000819s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000881s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000944s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-18T14:21:18+08:00 ] 127.0.0.1 /Admin/CarImage/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000644s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001010s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001121s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-18T14:21:21+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001053s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001126s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.007886s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.007954s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000903s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000955s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001100s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001159s ]
+
+[ 2018-03-18T14:21:27+08:00 ] 127.0.0.1 /Admin/CarImage/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000784s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001128s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001209s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-18T14:21:45+08:00 ] 127.0.0.1 /Admin/CarImage/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000947s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001156s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002322s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002546s ]
+
+[ 2018-03-18T14:31:18+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-18T14:31:19+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000860s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-18T14:31:48+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000845s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001037s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001105s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+
+[ 2018-03-18T14:32:21+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000806s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000924s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000985s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000112s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008391s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008470s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000995s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001053s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001123s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001182s ]
+
+[ 2018-03-18T14:32:30+08:00 ] 127.0.0.1 /Admin/CarImage/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000680s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001094s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001230s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0057s ]
+SQL: INSERT INTO `car` (`image`) VALUES ('Classify/2018-03-18/5aae07fe954b0.jpg') [ RunTime:0.0718s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002569s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002651s ]
+
+[ 2018-03-18T14:38:18+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000849s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001237s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000068s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000180s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010974s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011043s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001038s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001095s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001296s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001349s ]
+
+[ 2018-03-18T14:38:23+08:00 ] 127.0.0.1 /Admin/CarImage/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001728s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001851s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0079s ]
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `car` (`image`) VALUES ('$subdirectory/2018-03-18/5aae095f83212.jpg')
+ERR: 1062:Duplicate entry '0' for key 'PRIMARY'
+ [ SQL语句 ] : INSERT INTO `car` (`image`) VALUES ('$subdirectory/2018-03-18/5aae095f83212.jpg')
+
+[ 2018-03-18T14:40:12+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000777s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001083s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001161s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000124s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008115s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008193s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000885s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001075s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001128s ]
+
+[ 2018-03-18T14:40:16+08:00 ] 127.0.0.1 /Admin/CarImage/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000692s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000900s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000964s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0134s ]
+SQL: INSERT INTO `car` (`image`) VALUES ('$subdirectory/2018-03-18/5aae09d0ae424.jpg') [ RunTime:0.0594s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001878s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001957s ]
+
+[ 2018-03-18T14:41:01+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001142s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002252s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002344s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012924s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012997s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001218s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001374s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001427s ]
+
+[ 2018-03-18T14:41:05+08:00 ] 127.0.0.1 /Admin/CarImage/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000875s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0085s ]
+SQL: INSERT INTO `car` (`image`) VALUES ('CarImage/2018-03-18/5aae0a011b593.jpg') [ RunTime:0.1042s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001527s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001583s ]
+
+[ 2018-03-18T15:07:42+08:00 ] 127.0.0.1 /Admin/CarImage/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001022s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001304s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:CarImage
+
+[ 2018-03-18T15:07:48+08:00 ] 127.0.0.1 /Admin/CarI/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000835s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001499s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001589s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:CarI
+
+[ 2018-03-18T15:07:52+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000900s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002162s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002483s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 无法加载控制器:Car
+
+[ 2018-03-18T15:08:13+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000774s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001166s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001229s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+ERR: 模板不存在:./Application/Admin/View/Car/add.html
+
+[ 2018-03-18T15:08:28+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000904s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001403s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000059s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013076s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013165s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001021s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001069s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001305s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001358s ]
+
+[ 2018-03-18T15:10:32+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001397s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001459s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000120s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010388s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010489s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001222s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001395s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001468s ]
+
+[ 2018-03-18T15:10:33+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001051s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001483s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001562s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000052s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000113s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010276s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010374s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001334s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001391s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001411s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001463s ]
+
+[ 2018-03-18T15:10:33+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001725s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001823s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000062s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000128s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009912s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009998s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001409s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002238s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002328s ]
+
+[ 2018-03-18T15:10:34+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000737s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001722s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000106s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011252s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011436s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001875s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001971s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001332s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001386s ]
+
+[ 2018-03-18T15:10:34+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000729s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001311s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001371s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000187s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010992s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011078s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001160s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001211s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001423s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001504s ]
+
+[ 2018-03-18T15:11:17+08:00 ] 127.0.0.1 /Admin/Car/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000932s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001381s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001471s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: timemiles E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 12 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0083s ]
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1',NULL,'1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae1114edd0b.jpg')
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1',NULL,'1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae1114edd0b.jpg')
+
+[ 2018-03-18T15:12:12+08:00 ] 127.0.0.1 /Admin/Car/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000781s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001868s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002058s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: timemiles E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 12 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0062s ]
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1',NULL,'1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae114c884a4.jpg')
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1',NULL,'1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae114c884a4.jpg')
+
+[ 2018-03-18T15:12:40+08:00 ] 127.0.0.1 /Admin/Car/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000775s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: timemiles E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 12 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0055s ]
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1',NULL,'1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae1168d71cc.jpg')
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1',NULL,'1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae1168d71cc.jpg')
+
+[ 2018-03-18T15:13:12+08:00 ] 127.0.0.1 /Admin/Car/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001435s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001884s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001963s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: timemiles E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 12 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0062s ]
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1',NULL,'1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae118848dca.jpg')
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1',NULL,'1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae118848dca.jpg')
+
+[ 2018-03-18T15:13:14+08:00 ] 127.0.0.1 /Admin/Car/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000030s ]
+INFO: [ app_init ] --END-- [ RunTime:0.009866s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003445s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: name E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 10 行.
+NOTIC: [8] Undefined index: price E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 11 行.
+NOTIC: [8] Undefined index: timemiles E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 12 行.
+NOTIC: [8] Undefined index: miles E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 13 行.
+NOTIC: [8] Undefined index: emissions E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 14 行.
+NOTIC: [8] Undefined index: displacemnet E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 15 行.
+NOTIC: [8] Undefined index: city E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 16 行.
+NOTIC: [8] Undefined index: inspector E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 17 行.
+NOTIC: [8] Undefined index: brand E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 18 行.
+NOTIC: [8] Undefined index: cars E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 19 行.
+NOTIC: [8] Undefined index: type E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 20 行.
+NOTIC: [8] Undefined index: stages E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 21 行.
+NOTIC: [8] Undefined index: year E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 22 行.
+NOTIC: [8] Undefined index: payments E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 23 行.
+NOTIC: [8] Undefined index: option E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 24 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001663s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001730s ]
+
+[ 2018-03-18T15:13:29+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000785s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001380s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001442s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000056s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000127s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009894s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009960s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001214s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001273s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001606s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001671s ]
+
+[ 2018-03-18T15:13:46+08:00 ] 127.0.0.1 /Admin/Car/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000890s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001714s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [8] Undefined index: timemiles E:\xampp\htdocs\youxin\Application\Admin\Controller\CarController.class.php 第 12 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0055s ]
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1',NULL,'1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae11aae067b.jpg')
+ERR: 1048:Column 'time' cannot be null
+ [ SQL语句 ] : INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1',NULL,'1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae11aae067b.jpg')
+
+[ 2018-03-18T15:14:20+08:00 ] 127.0.0.1 /Admin/Car/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000871s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001622s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001699s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0059s ]
+SQL: INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1','1','1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae11cc14702.jpg') [ RunTime:0.0537s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001927s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002004s ]
+
+[ 2018-03-18T15:15:37+08:00 ] 127.0.0.1 /Admin/Car/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000876s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001964s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0059s ]
+SQL: INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('222','1','1','1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae1219cf39c.jpg') [ RunTime:0.0602s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001544s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001625s ]
+
+[ 2018-03-18T15:25:53+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000772s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001680s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000054s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000116s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009819s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009908s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001326s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001421s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001476s ]
+
+[ 2018-03-18T15:27:50+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001018s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001477s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001571s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000063s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000201s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015887s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016089s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001308s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001470s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005941s ]
+INFO: [ app_end ] --END-- [ RunTime:0.006062s ]
+
+[ 2018-03-18T16:10:02+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000832s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001226s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001296s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000083s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000190s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.013781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013855s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000891s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000942s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001179s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001253s ]
+
+[ 2018-03-18T16:44:08+08:00 ] 127.0.0.1 /Admin/Car/add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001008s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001435s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001518s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000079s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000175s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014648s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014849s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002487s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002605s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001235s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001306s ]
+
+[ 2018-03-18T16:44:24+08:00 ] 127.0.0.1 /Admin/Car/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000773s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000939s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001009s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0061s ]
+SQL: INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`,`image`) VALUES ('1','1','1','1','1','1','1','1','1','1','1','1','1','Car/2018-03-18/5aae26e84056f.png') [ RunTime:0.0630s ]
+
+[ 2018-03-18T16:48:38+08:00 ] 127.0.0.1 /Admin/Car/doAdd
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000827s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\xampp\htdocs\youxin\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: SHOW COLUMNS FROM `car` [ RunTime:0.0055s ]
+SQL: INSERT INTO `car` (`name`,`price`,`time`,`miles`,`emissions`,`city`,`inspector`,`brand`,`cars`,`type`,`stages`,`year`,`payments`) VALUES ('1','1','1','1','1','1','1','1','1','1','1','1','1') [ RunTime:0.0509s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000055s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000152s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016798s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016880s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001156s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001203s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000050s ]
+INFO: [ template_filter ] --END-- [ RunTime:-0.006212s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.004676s ]
+INFO: [ view_parse ] --END-- [ RunTime:-0.001605s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000013s ]
+INFO: [ view_filter ] --END-- [ RunTime:-0.005159s ]
+
+[ 2018-03-18T16:48:39+08:00 ] 127.0.0.1 /index.php/Admin/Car/add.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000838s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002529s ]
+NOTIC: [8] A session had already been started - ignoring session_start() E:\xampp\htdocs\youxin\ThinkPHP\Common\functions.php 第 1263 行.
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000210s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011527s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011640s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001632s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001702s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001487s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001543s ]
+

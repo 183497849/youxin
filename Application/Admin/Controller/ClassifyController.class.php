@@ -15,7 +15,8 @@ class CLassifyController extends Controller {
 	public function doAdd(){
 		$name = $_POST['name'];
 		$parent_id = $_POST['parent_id'];
-		$img = uploadFile();
+		$subdirectory = 'Classify';
+		$img = uploadFile($subdirectory);
 		// var_dump($img);
 		// die();
 		$data = array(

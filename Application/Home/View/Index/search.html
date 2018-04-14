@@ -15,7 +15,7 @@
 			<form action="" class="form">
 			<input type="search" placeholder="品牌/车系"></form>
 		</div>
-		<div class="right"><a href="http://youxin.com/Home/Index/index">取消</a></div>
+		<div class="right"><a href="http://youxin.com/Home/Index">取消</a></div>
 	</header>
 	<div class="suggest">
 		<div class="suggest-title">热门搜索

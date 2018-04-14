@@ -15,8 +15,8 @@
 		<div class="home-header clearfix">
 			<a href="#" class="uxin"></a>
 			<a href="#" class="spot">吉林</a>
-			<a href="http://youxin.com/Home/Index/search" class="search"> <i></i><input type="text" class="search-text" placeholder="搜索:品牌/"></a>
-			<a href="#" class="fold"></a>
+			<a href="http://youxin.com/Home/Index/search" class="search"> <i></i><input type="text" class="search-text" placeholder="搜索:品牌"></a>
+			<a href="http://youxin.com/Home/UserCenter/login" class="fold"></a>
 		</div>
 		<div class="banner swiper-container">
 			<div class="swiper-wrapper">
@@ -94,15 +94,17 @@
                         <a href="#" class="more">什么是全国直购</a>
                 </div>
                 <ul class="car-list clearfix">
-                        <?php foreach($car_type_data as $key=>$value) { ?>
+                        <?php foreach($car_entry_data as $key=>$value) { ?>
                         <li class="car-item">
                             <a href="#" class="clearfix">
                                         <img src="__PUBLIC__/Home/image/5a4317cdce73d467717_18.jpg" alt="">
+                                     
                                         <div class="item-text">
-                                                <h4>[12天提车] 奥迪 A4L 2012款 2.0T 自动 TFSI标准型</h4>
-                                                <span class="car-data">2012年 / 10.3万公里</span>
-                                                <div class="price-wrap"><span class="list-price">17.13</span>万<span class="list-half">首付4.80</span>万</div>
+                                        <h4>[12天提车] <?php echo $value['name'] ?></h4>
+                                            <span class="car-data"><?php echo $value['year'] ?>年 / <?php echo $value['miles'] ?>万公里</span>
+                                            <div class="price-wrap"><span class="list-price"><?php echo $value['price'] ?></span>万<span class="list-half">首付<?php echo $value['payments'] ?></span>万</div>
                                         </div>
+                                     
                                 </a>
                         </li>
                         <?php } ?>
